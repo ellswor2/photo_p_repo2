@@ -1,0 +1,448 @@
+Species,Family,Sitename,Continent,Site_No,Cont_No,Species_No,Vcmax,Jmax,Pmass,NPratio,Plim_status,PPbin
+Corymbia latifolia,Myrtaceae,Adelaide River,Australia,1,122,59,57.2,98.2,0.4,13.8,Low P,low
+Eucalyptus tectifica,Myrtaceae,Adelaide River,Australia,1,170,59,80.3,124.7,0.6,14.9,Low P,low
+Caraipa punctulata,Calophyllaceae,Allpahuayo_01,S_Amer,2,72,16,43.7,82.9,0.4,30.1,Low P,low
+Cespedesia spathulata,Ochnaceae,Allpahuayo_01,S_Amer,2,90,61,31.7,99.6,0.8,19.5,Low P,med1
+Chaunochiton kappleri,Olacaceae,Allpahuayo_01,S_Amer,2,92,62,32.3,71.4,1.21,16.2,Mod. P,med2
+Dipteryx micrantha,Fabaceae,Allpahuayo_01,S_Amer,2,141,36,46.3,66.2,0.62,22.1,Low P,med1
+Hevea pauciflora,Euphorbiaceae,Allpahuayo_01,S_Amer,2,213,35,38.8,69.4,1.01,15.4,Mod. P,med2
+Inga striata,Fabaceae,Allpahuayo_01,S_Amer,2,228,36,41.8,83.6,1.3,29.9,Mod. P,high
+Iryanthera lancifolia,Myristicaceae,Allpahuayo_01,S_Amer,2,231,58,42.6,86.7,0.55,21.4,Low P,low
+Minquartia guianensis,Olacaceae,Allpahuayo_01,S_Amer,2,286,62,42.3,72.7,0.36,30.8,Low P,low
+Pourouma guianensis subsp. guianensis,Urticaceae,Allpahuayo_01,S_Amer,2,339,84,52.6,70.7,0.87,22.3,Low P,med1
+Ruptiliocarpon caracolito,Lepidobotryaceae,Allpahuayo_01,S_Amer,2,382,47,25.7,55.9,0.77,30.9,Low P,med1
+Swartzia polyphylla,Fabaceae,Allpahuayo_01,S_Amer,2,415,36,37.6,65.8,0.49,43.4,Low P,low
+Aniba perutilis,Lauraceae,Allpahuayo_40,S_Amer,3,31,44,31.5,68.7,0.39,31.2,Low P,low
+Aspidosperma desmanthum,Apocynaceae,Allpahuayo_40,S_Amer,3,41,5,41.1,113.6,0.93,11.7,Mod. P,med1
+Brosimum potabile,Moraceae,Allpahuayo_40,S_Amer,3,57,56,22.2,71.3,0.86,18.9,Low P,med1
+Calyptranthes bipennis,Myrtaceae,Allpahuayo_40,S_Amer,3,70,59,20.3,52.8,0.34,25,Low P,low
+Chrysophyllum sanguinolentum,Sapotaceae,Allpahuayo_40,S_Amer,3,95,77,56.9,99.2,0.51,18.2,Low P,low
+Cybianthus nestorii,Primulaceae,Allpahuayo_40,S_Amer,3,131,69,36.7,90.1,0.44,18.7,Low P,low
+Diplotropis sp.,Fabaceae,Allpahuayo_40,S_Amer,3,138,36,45.1,122.9,0.73,19.8,Low P,med1
+Guatteria decurrens,Annonaceae,Allpahuayo_40,S_Amer,3,201,3,23.7,62.7,0.36,23.3,Low P,low
+Humiria balsamifera,Humiriaceae,Allpahuayo_40,S_Amer,3,218,40,26.2,66.3,0.85,9.4,Low P,med1
+Jacqueshuberia loretensis,Fabaceae,Allpahuayo_40,S_Amer,3,232,36,42.3,86.2,1.02,21.2,Mod. P,med2
+Licania unguiculata,Chrysobalanaceae,Allpahuayo_40,S_Amer,3,249,23,28.7,75.9,1.26,12.8,Mod. P,med2
+Ocotea aciphylla,Lauraceae,Allpahuayo_40,S_Amer,3,304,44,32.1,64.9,0.32,27.6,Low P,low
+Roucheria schomburgkii,Linaceae,Allpahuayo_40,S_Amer,3,380,48,29.5,73,0.43,23.3,Low P,low
+Simarouba amara,Simaroubaceae,Allpahuayo_40,S_Amer,3,396,78,36.8,83.4,0.51,20.2,Low P,low
+Sloanea robusta,Elaeocarpaceae,Allpahuayo_40,S_Amer,3,401,33,31.6,71,0.53,12.6,Low P,low
+Tachigali bracteosa,Fabaceae,Allpahuayo_40,S_Amer,3,427,36,35.3,102.5,0.98,16.8,Mod. P,med2
+Tapirira guianensis,Anacardiaceae,Allpahuayo_40,S_Amer,3,430,2,23.2,52.2,0.92,16.8,Mod. P,med1
+unidentified,NA,Allpahuayo_40,S_Amer,3,456,NA,35.7,66,0.94,10.9,Mod. P,med1
+Virola pavonis,Myristicaceae,Allpahuayo_40,S_Amer,3,460,58,45.8,73.7,0.53,19.8,Low P,low
+Corynanthe pachyceras,Rubiaceae,Asukese,Africa,5,124,73,22.4,50.7,0.89,27.7,Low P,med1
+Hymenostegia afzelii,Fabaceae,Asukese,Africa,5,221,36,16.9,38.4,1.56,20.4,Mod. P,high
+Nesogordonia papaverifera,Malvaceae,Asukese,Africa,5,301,51,22.4,47,1.44,20.4,Mod. P,high
+Triplochiton scleroxylon,Malvaceae,Asukese,Africa,5,450,51,45.1,87.4,1.75,18.3,Mod. P,high
+Acacia gourmaensis,Fabaceae,Bissiga,Africa,6,3,36,68.1,130.8,1.54,17,Mod. P,high
+Anogeissus leiocarpa,Combretaceae,Bissiga,Africa,6,34,26,51.2,101.7,1.49,13.7,Mod. P,high
+Combretum glutinosum,Combretaceae,Bissiga,Africa,6,113,26,75.1,135.8,1.2,15.1,Mod. P,med2
+Combretum micranthum,Combretaceae,Bissiga,Africa,6,115,26,61.3,118.2,1.51,18.1,Mod. P,high
+Lannea acida,Anacardiaceae,Bissiga,Africa,6,238,2,56.3,128.2,1,17.7,Mod. P,med2
+Senna obtusifolia,Fabaceae,Bissiga,Africa,6,391,36,67.7,136.6,1.88,14.5,Mod. P,high
+Vitellaria paradoxa,Sapotaceae,Bissiga,Africa,6,464,77,70.7,157.4,0.91,19.9,Low P,med1
+Adansonia digitata,Bombacaceae,Boabeng-Fiema,Africa,7,11,12,43,118.3,2.53,8.7,Mod. P,high
+Aidia genipiflora,Rubiaceae,Boabeng-Fiema,Africa,7,13,73,53.4,148.2,1.31,21.5,Mod. P,high
+Albizia adianthifolia,Fabaceae,Boabeng-Fiema,Africa,7,14,36,27.3,67.5,1.13,26.7,Mod. P,med2
+Anogeissus leiocarpa,Combretaceae,Boabeng-Fiema,Africa,7,34,26,41.1,103.1,1.86,11.3,Mod. P,high
+Antiaris toxicaria,Moraceae,Boabeng-Fiema,Africa,7,35,56,37.8,62.6,1.01,23.9,Mod. P,med2
+Blighia sapida,Sapindaceae,Boabeng-Fiema,Africa,7,54,76,25.4,66.6,1.27,19.1,Mod. P,med2
+Bombax brevicuspe,Malvaceae,Boabeng-Fiema,Africa,7,55,51,45.6,124.6,0.91,15.8,Low P,med1
+Cola caricifolia,Malvaceae,Boabeng-Fiema,Africa,7,108,51,26.4,76.2,1.99,15.9,Mod. P,high
+Cola gigantea,Malvaceae,Boabeng-Fiema,Africa,7,109,51,34.8,62.6,1.55,12.7,Mod. P,high
+Detarium senegalense,Fabaceae,Boabeng-Fiema,Africa,7,135,36,42,147.8,1.02,17.3,Mod. P,med2
+Diospyros piscatoria,Ebenaceae,Boabeng-Fiema,Africa,7,137,32,38.9,95.7,1.57,18.9,Mod. P,high
+Ficus sp.,Moraceae,Boabeng-Fiema,Africa,7,184,56,41.5,78.5,1.1,16.6,Mod. P,med2
+Holarrhena floribunda,Apocynaceae,Boabeng-Fiema,Africa,7,216,5,42.8,97.3,1.91,14.3,Mod. P,high
+Khaya grandifoliola,Meliaceae,Boabeng-Fiema,Africa,7,234,53,32,77.8,1.28,16.3,Mod. P,high
+Parinari congoensis,Chrysobalanaceae,Boabeng-Fiema,Africa,7,317,23,37.7,95.5,1.18,14.4,Mod. P,med2
+Phyllanthus sp.,Phyllanthaceae,Boabeng-Fiema,Africa,7,323,67,36.3,93,3.64,11.2,Mod. P,high
+Pouteria alnifolia,Sapotaceae,Boabeng-Fiema,Africa,7,342,77,31.9,71.2,0.97,24.5,Mod. P,med2
+Pterocarpus erinaceus,Fabaceae,Boabeng-Fiema,Africa,7,368,36,26.3,55.2,1.36,14,Mod. P,high
+Pycnanthus angolensis,Myristicaceae,Boabeng-Fiema,Africa,7,371,58,38.2,81,1.35,20.6,Mod. P,high
+Terminalia schimperiana,Combretaceae,Boabeng-Fiema,Africa,7,440,26,59.9,75.5,1.38,13,Mod. P,high
+Trilepisium madagascariense,Moraceae,Boabeng-Fiema,Africa,7,449,56,34.9,56.6,1.84,11.9,Mod. P,high
+Corymbia aparrerinja,Myrtaceae,Boulia_Qld,Australia,8,120,59,64.2,113.3,0.78,11.8,Low P,med1
+Corymbia terminalis,Myrtaceae,Boulia_Qld,Australia,8,123,59,71.3,143.7,0.59,10.4,Low P,low
+Alseodaphne petiolaris,Lauraceae,Bubeng_China,Asia,9,22,44,57.3,88.3,1.1,13.6,Mod. P,med2
+Byttneria aspera,Malvaceae,Bubeng_China,Asia,9,66,51,49.6,80.3,0.97,22.1,Mod. P,med2
+Castanopsis echidocarpa,Fagaceae,Bubeng_China,Asia,9,78,37,63.3,88.4,1.08,17.9,Mod. P,med2
+Castanopsis hystrix,Fagaceae,Bubeng_China,Asia,9,79,37,65.5,128.8,0.8,19.8,Low P,med1
+Castanopsis indica,Fagaceae,Bubeng_China,Asia,9,80,37,79.7,139,0.8,23.5,Low P,med1
+Colona thorelii,Tiliaceae,Bubeng_China,Asia,9,111,81,71.1,146.2,1.36,21.4,Mod. P,high
+Combretum latifolia,Combretaceae,Bubeng_China,Asia,9,114,26,36.4,65.1,1.69,13.3,Mod. P,high
+Duabanga grandiflora,Sonneratiaceae,Bubeng_China,Asia,9,142,79,98.5,171.2,1.6,11.5,Mod. P,high
+Ficus drupacea,Moraceae,Bubeng_China,Asia,9,178,56,64.6,99.4,1.96,9.9,Mod. P,high
+Ficus lankokensis,Moraceae,Bubeng_China,Asia,9,181,56,53.5,87.4,1.16,19.9,Mod. P,med2
+Ficus sagitatta,Moraceae,Bubeng_China,Asia,9,182,56,54.9,94.2,1.24,14.5,Mod. P,med2
+Fissistigma maclurei,Annonaceae,Bubeng_China,Asia,9,186,3,44.8,79.4,1.05,19.6,Mod. P,med2
+Fissistigma polyanthum,Annonaceae,Bubeng_China,Asia,9,187,3,59.2,88.3,0.99,19.5,Mod. P,med2
+Garcinia cowa,Clusiaceae,Bubeng_China,Asia,9,192,25,28.5,62.4,0.9,19.7,Low P,med1
+Garuga pinnata,Burseraceae,Bubeng_China,Asia,9,193,15,45.9,79.5,1.99,10,Mod. P,high
+Parashorea chinensis,Dipterocarpacaeae,Bubeng_China,Asia,9,316,30,58.8,95.7,1.5,15.9,Mod. P,high
+Pometia tomentosa,Sapindaceae,Bubeng_China,Asia,9,333,76,45.6,100.5,1.28,14.8,Mod. P,med2
+Premna scandens,Verbenaceae,Bubeng_China,Asia,9,355,85,60.3,118.5,0.93,22,Mod. P,med1
+Sargentodoxa cuneata,Lardizabalaceae,Bubeng_China,Asia,9,386,43,72.6,110,1.12,17.6,Mod. P,med2
+Semecarpus reticulata,Anacardiaceae,Bubeng_China,Asia,9,390,2,53.1,106.4,1.16,12.8,Mod. P,med2
+Sloanea tomentosa,Elaeocarpaceaea,Bubeng_China,Asia,9,402,34,32.6,66.7,0.75,16.8,Low P,med1
+Uncaria laevigata,Rubiaceae,Bubeng_China,Asia,9,454,73,56.3,91,1.17,20,Mod. P,med2
+Uncaria macrophylla,Rubiaceae,Bubeng_China,Asia,9,455,73,74.2,107.9,1.06,16.6,Mod. P,med2
+Acmena graveolens,Myrtaceae,Cape Tribulation Crane,Australia,10,10,59,43.9,75.4,1.17,15,Mod. P,med2
+Alstonia scholaris,Apocynaceae,Cape Tribulation Crane,Australia,10,23,5,53,82.3,0.6,30.6,Low P,low
+Argyrodendron perulatum,Malvaceae,Cape Tribulation Crane,Australia,10,39,51,62,127.9,0.74,20,Low P,med1
+Castanospermum australe,Fabaceae,Cape Tribulation Crane,Australia,10,81,36,48.6,98.5,1.14,21,Mod. P,med2
+Elaeocarpus angustifolius,Elaeocarpaceae,Cape Tribulation Crane,Australia,10,146,33,40.6,98.9,1.09,19.8,Mod. P,med2
+Emmenosperma cunninghamii,Rhamnaceae,Cape Tribulation Crane,Australia,10,148,71,62.7,94.1,0.24,78.5,Low P,low
+Endiandra microneura,Lauraceae,Cape Tribulation Crane,Australia,10,149,44,44.2,79.1,0.9,19.4,Low P,med1
+Ganophyllum falcatum,Sapindaceae,Cape Tribulation Crane,Australia,10,191,76,42,117.4,0.74,27.8,Low P,med1
+Litsea leefeana,Lauraceae,Cape Tribulation Crane,Australia,10,255,44,44.6,78.1,0.82,16.9,Low P,med1
+Myristica globosa,Myristicaceae,Cape Tribulation Crane,Australia,10,291,58,46.8,82.6,1.57,12.9,Mod. P,high
+Rockinghamia angustifolia,Euphorbiaceae,Cape Tribulation Crane,Australia,10,378,35,20.4,42.6,0.6,25.8,Low P,med1
+Syzygium graveolens,Myrtaceae,Cape Tribulation Crane,Australia,10,421,59,42.5,82.8,0.84,18.3,Low P,med1
+Syzygium sayeri,Myrtaceae,Cape Tribulation Crane,Australia,10,424,59,49.6,101.3,0.6,25.4,Low P,low
+Viticipremna queenslandica,Lamiaceae,Cape Tribulation Crane,Australia,10,466,42,60.8,164.4,0.65,40,Low P,med1
+Eschweilera coriacea,Lecythidaceae,Caxiuana,S_Amer,13,154,45,24,50.5,1.08,18.6,Mod. P,med2
+Eschweilera grandiflora,Lecythidaceae,Caxiuana,S_Amer,13,155,45,29.3,66.6,1.17,12,Mod. P,med2
+Licania membranacea,Chrysobalanaceae,Caxiuana,S_Amer,13,247,23,23.8,53,0.59,23.6,Low P,low
+Manilkara bidentata ssp. amazonica,Sapotaceae,Caxiuana,S_Amer,13,266,77,34.9,65.2,0.67,22.4,Low P,med1
+Pouteria anomala,Sapotaceae,Caxiuana,S_Amer,13,343,77,22.1,52,0.79,24.8,Low P,med1
+Protium tenuifolium,Burseraceae,Caxiuana,S_Amer,13,361,15,31.7,56,0.87,17.5,Low P,med1
+Swartzia racemosa,Fabaceae,Caxiuana,S_Amer,13,416,36,42.7,73.5,0.53,52.4,Low P,low
+Guazuma crinita,Malvaceae,Cuzco_03,S_Amer,15,204,51,61.8,108.4,2.46,8.6,Mod. P,high
+Poulsenia armata,Moraceae,Cuzco_03,S_Amer,15,336,56,43.3,96.5,1.01,13.3,Mod. P,med2
+Pouteria torta subsp. glabra,Sapotaceae,Cuzco_03,S_Amer,15,350,77,53.7,81.9,0.81,17.9,Low P,med1
+Pseudolmedia laevis,Moraceae,Cuzco_03,S_Amer,15,365,56,40.8,77.6,0.86,18.2,Low P,med1
+Swartzia sp.,Fabaceae,Cuzco_03,S_Amer,15,417,36,15.7,37.2,1.02,28,Mod. P,med2
+Tapura sp.,Dichapetalaceae,Cuzco_03,S_Amer,15,432,29,42.3,75.7,0.15,54.6,Low P,low
+Terminalia oblonga,Combretaceae,Cuzco_03,S_Amer,15,438,26,39.4,84.8,1.09,16,Mod. P,med2
+Trichilia sp.,Meliaceae,Cuzco_03,S_Amer,15,448,53,25.1,56.7,1.23,13.7,Mod. P,med2
+Corymbia latifolia,Myrtaceae,Daly River,Australia,16,122,59,50.4,101.9,0.35,17.2,Low P,low
+Eucalyptus tetradonta,Myrtaceae,Daly River,Australia,16,172,59,73.7,124.1,0.56,14.5,Low P,low
+Cochlospermum planchoni,Bixaceae,Dano,Africa,17,107,11,71.5,143.7,1.14,13.7,Mod. P,med2
+Daniellia oliveri,Fabaceae,Dano,Africa,17,132,36,68.8,136.8,1.04,14.7,Mod. P,med2
+Lannea acida,Anacardiaceae,Dano,Africa,17,238,2,57.7,134.8,0.92,15.9,Mod. P,med1
+Terminalia laxiflora,Combretaceae,Dano,Africa,17,436,26,83.3,182.7,1.04,12.3,Mod. P,med2
+Terminalia macroptera,Combretaceae,Dano,Africa,17,437,26,70.3,139.6,0.9,14.1,Low P,med1
+Vitellaria paradoxa,Sapotaceae,Dano,Africa,17,464,77,56.6,120.1,0.87,15.6,Low P,med1
+Acacia oblongifolia,Fabaceae,Davies_park,Australia,18,4,36,64.9,118.2,0.31,56.9,Low P,low
+Banksia serrata,Proteaceae,Davies_park,Australia,18,46,70,81.4,121.2,0.25,25.6,Low P,low
+Persoonia levis,Proteaceae,Davies_park,Australia,18,322,70,54.4,85.9,0.31,24.5,Low P,low
+Syncarpia glomifera,Myrtaceae,Davies_park,Australia,18,419,59,75,118.5,0.39,21.6,Low P,low
+Eucalyptus clarksoniana,Myrtaceae,Davis Creek,Australia,19,161,59,69.1,83.9,0.45,23.7,Low P,low
+Eucalyptus tereticornis,Myrtaceae,Davis Creek,Australia,19,171,59,87.1,114,0.67,20.7,Low P,med1
+Lophostemon suaveolens,Myrtaceae,Davis Creek,Australia,19,256,59,70.5,119.2,0.37,34,Low P,low
+Corymbia terminalis,Myrtaceae,Dry Creek,Australia,20,123,59,63,131.5,0.44,15.6,Low P,low
+Eucalyptus tetradonta,Myrtaceae,Dry Creek,Australia,20,172,59,56.6,101.1,0.45,16.3,Low P,low
+Corymbia intermedia,Myrtaceae,Edmond Kennedy Park,Australia,24,121,59,65.9,140.1,0.39,32,Low P,low
+Eucalyptus intermedia,Myrtaceae,Edmond Kennedy Park,Australia,24,165,59,62.3,108.9,0.43,33.1,Low P,low
+Eucalyptus pellita,Myrtaceae,Edmond Kennedy Park,Australia,24,167,59,79.4,152.5,0.5,24,Low P,low
+Miconia sp.,Melastomataceae,Esperanza_01,S_Amer,26,276,52,49.8,117,1.5,10.5,Mod. P,high
+Morella pavonis,Myricaceae,Esperanza_01,S_Amer,26,287,57,76.8,172.9,0.97,20.6,Mod. P,med2
+Myrsine youngii,Primulaceae,Esperanza_01,S_Amer,26,294,69,67.1,140.1,1.32,14.6,Mod. P,high
+Persea buchtienii,Lauraceae,Esperanza_01,S_Amer,26,321,44,59,76.9,1.2,13.1,Mod. P,med2
+Eucalyptus tereticornis,Myrtaceae,EucFACE,Australia,27,171,59,98.7,166.9,0.77,21.1,Low P,med1
+Abuta rufescens,Menispermaceae,FLONA-Km67,S_Amer,28,1,54,45.7,88,0.88,18.6,Low P,med1
+Copaifera duckei,Fabaceae,FLONA-Km67,S_Amer,28,117,36,52.8,89.9,1.38,18.8,Mod. P,high
+Manilkara huberi,Sapotaceae,FLONA-Km67,S_Amer,28,267,77,77.2,107.9,0.68,21.5,Low P,med1
+Prinostemma af. aspera,Hippocrateaceae,FLONA-Km67,S_Amer,28,356,39,37.3,67.7,0.67,28,Low P,med1
+Tetrapterys sp.,Malpighiaceae,FLONA-Km67,S_Amer,28,442,50,54.2,87,1.27,17.6,Mod. P,med2
+Abuta rufescens,Menispermaceae,FLONA-Km83,S_Amer,29,1,54,52.9,113,0.61,23,Low P,med1
+Lecythis lurida,Lecythidaceae,FLONA-Km83,S_Amer,29,241,45,29.7,54.3,0.58,30.5,Low P,low
+Micropholis sp.,Sapotaceae,FLONA-Km83,S_Amer,29,281,77,41.3,81.5,0.69,24.5,Low P,med1
+Tachigali myrmecophila,Fabaceae,FLONA-Km83,S_Amer,29,428,36,67.4,101.5,1.04,32.7,Mod. P,med2
+Alchornea sp.,Euphorbiaceae,San_Lorenzo_crane,S_Amer,30,16,35,35.9,57,1.72,13.8,Mod. P,high
+Apeiba membranacea,Malvaceae,San_Lorenzo_crane,S_Amer,30,37,51,49.2,86.2,1.05,18.1,Mod. P,med2
+Aspidosperma cruenta,Apocyanaceae,San_Lorenzo_crane,S_Amer,30,40,4,42.7,85.4,0.84,22.2,Low P,med1
+Aspidosperma megalocarpon,Apocynaceae,San_Lorenzo_crane,S_Amer,30,42,5,37.6,74.1,0.6,28.4,Low P,low
+Brosimum utile,Moraceae,San_Lorenzo_crane,S_Amer,30,60,56,45.1,71.4,1.09,14.5,Mod. P,med2
+Cespedesia spathulata,Ochnaceae,San_Lorenzo_crane,S_Amer,30,90,61,43.7,89.7,0.83,22.7,Low P,med1
+Guatteria dumetorum,Annonaceae,San_Lorenzo_crane,S_Amer,30,202,3,27.6,61.4,1.77,15.8,Mod. P,high
+Poulsenia armata,Moraceae,San_Lorenzo_crane,S_Amer,30,336,56,52.1,125,1.62,13.4,Mod. P,high
+Pourouma bicolor,Urticaceae,San_Lorenzo_crane,S_Amer,30,337,84,51.9,99.5,1.27,20.4,Mod. P,med2
+Sapium glandulosum,Euphorbiaceae,San_Lorenzo_crane,S_Amer,30,383,35,70.2,123.2,1.63,13.5,Mod. P,high
+Simarouba amara,Simaroubaceae,San_Lorenzo_crane,S_Amer,30,396,78,45.9,90.1,0.65,26.8,Low P,med1
+Tapirira guianensis,Anacardiaceae,San_Lorenzo_crane,S_Amer,30,430,2,23.2,48.8,0.7,21,Low P,med1
+Tocoyena pittieri,Rubiaceae,San_Lorenzo_crane,S_Amer,30,444,73,47.7,74.9,0.94,23.1,Mod. P,med2
+unknown,unknown,San_Lorenzo_crane,S_Amer,30,457,83,35.7,64.5,1.08,19,Mod. P,med2
+Vantanea depleta,Humiriaceae,San_Lorenzo_crane,S_Amer,30,458,40,59.2,105.7,0.88,32.3,Low P,med1
+Virola multiflora,Myristicaceae,San_Lorenzo_crane,S_Amer,30,459,58,46.3,92.9,0.78,25.2,Low P,med1
+Xylopia macrantha,Annonaceae,San_Lorenzo_crane,S_Amer,30,474,3,34.7,59.7,0.85,29.2,Low P,med1
+Cajanus reticulatus,Fabaceae,Forty Mile Scrub,Australia,31,68,36,60.8,98.6,1.49,10.7,Mod. P,high
+Ehretia membranifolia,Boraginaceae,Forty Mile Scrub,Australia,31,144,13,50.1,128.9,1.25,15.6,Mod. P,med2
+Maytenus cunninghamii,Celastraceae,Forty Mile Scrub,Australia,31,272,21,30.9,75.3,0.72,12.8,Low P,med1
+Notelaea microcarpa,Oleaceae,Forty Mile Scrub,Australia,31,302,63,53.6,114.3,1.02,15.1,Mod. P,med2
+Strychnos psilosperma,Loganiaceae,Forty Mile Scrub,Australia,31,413,49,54.9,119.3,0.76,16.2,Low P,med1
+Eucalyptus dunnii,Myrtaceae,HFE_plantation,Australia,32,164,59,99.6,148.9,1.18,16.4,Mod. P,med2
+Eucalyptus saligna,Myrtaceae,HFE_plantation,Australia,32,169,59,101.3,172.6,1.35,15.8,Mod. P,high
+Liquidambar styraciflua,Altingiaceae,HFE_plantation,Australia,32,252,1,78.9,142,1.83,9.7,Mod. P,high
+Acacia senegal,Fabaceae,Hombori,Africa,33,6,36,61.6,119.1,2.48,17.3,Mod. P,high
+Acacia tortilis subsp raddiana,Fabaceae,Hombori,Africa,33,7,36,29.4,48.1,1.71,14.2,Mod. P,high
+Combretum glutinosum,Combretaceae,Hombori,Africa,33,113,26,72.9,133.5,1.18,14.4,Mod. P,med2
+Eucalyptus miniata,Myrtaceae,Howard Springs,Australia,34,166,59,74.8,113.4,0.63,15,Low P,med1
+Eucalyptus tetradonta,Myrtaceae,Howard Springs,Australia,34,172,59,55.9,89.7,0.43,17.7,Low P,low
+Eucalyptus_fastigata,Myrtaceae,Illawarra_fly,Australia,35,174,59,98.8,175.4,1.68,10.6,Mod. P,high
+Hedycarya angustifolia,Monimiaceae,Illawarra_fly,Australia,35,209,55,47.2,123.4,1.1,14.7,Mod. P,med2
+Alchornea triplinervia,Euphorbiaceae,Jenaro_Herrera,S_Amer,36,17,35,51.1,95.8,0.72,31.6,Low P,med1
+Aptandra liriosmoides,Olacaceae,Jenaro_Herrera,S_Amer,36,38,62,19.5,69.3,0.64,22.3,Low P,med1
+Aspidosperma desmanthum,Apocynaceae,Jenaro_Herrera,S_Amer,36,41,5,40.7,104.2,1.27,9.8,Mod. P,med2
+Brosimum rubescens,Moraceae,Jenaro_Herrera,S_Amer,36,58,56,45.7,86.4,0.24,45.4,Low P,low
+Brosimum utile subsp. ovatifolium,Moraceae,Jenaro_Herrera,S_Amer,36,61,56,42.3,81,0.98,13.7,Mod. P,med2
+Chrysophyllum sanguinolentum,Sapotaceae,Jenaro_Herrera,S_Amer,36,95,77,49.9,105.3,0.69,17.6,Low P,med1
+Couma macrocarpa,Apocynaceae,Jenaro_Herrera,S_Amer,36,127,5,33.3,81.7,0.76,20.4,Low P,med1
+Eschweilera coriacea,Lecythidaceae,Jenaro_Herrera,S_Amer,36,154,45,30.1,82.6,0.51,27.6,Low P,low
+Eschweilera tessmannii,Lecythidaceae,Jenaro_Herrera,S_Amer,36,158,45,22.7,70.7,0.39,45.9,Low P,low
+Goupia glabra,Goupiaceae,Jenaro_Herrera,S_Amer,36,200,38,63.8,160.6,0.76,26.5,Low P,med1
+Licania sp.,Chrysobalanaceae,Jenaro_Herrera,S_Amer,36,248,23,35.2,46.7,0.33,53.2,Low P,low
+Licaria cannella,Lauraceae,Jenaro_Herrera,S_Amer,36,251,44,35.9,78,0.36,34.2,Low P,low
+Lueheopsis althaeiflora,Malvaceae,Jenaro_Herrera,S_Amer,36,259,51,54.7,97.5,0.58,22.3,Low P,low
+Macoubea sprucei,Apocynaceae,Jenaro_Herrera,S_Amer,36,265,5,36.5,79.4,0.68,15.8,Low P,med1
+Mezilaurus synandra,Lauraceae,Jenaro_Herrera,S_Amer,36,274,44,31.9,93,0.29,36.6,Low P,low
+Micrandra spruceana,Euphorbiaceae,Jenaro_Herrera,S_Amer,36,277,35,35.2,82.1,0.79,19.9,Low P,med1
+Micropholis guyanensis,Sapotaceae,Jenaro_Herrera,S_Amer,36,279,77,37,79.9,0.17,80.8,Low P,low
+Micropholis guyanensis subsp. guyanensis,Sapotaceae,Jenaro_Herrera,S_Amer,36,280,77,48.6,140.3,0.84,17,Low P,med1
+Mouriri nigra,Melastomataceae,Jenaro_Herrera,S_Amer,36,289,52,24.1,55.6,0.29,62.3,Low P,low
+Osteophloeum platyspermum,Myristicaceae,Jenaro_Herrera,S_Amer,36,311,58,40.6,81.7,0.8,25.4,Low P,med1
+Parahancornia peruviana,Apocynaceae,Jenaro_Herrera,S_Amer,36,315,5,17.2,46.4,0.08,119.6,Low P,NA
+Pourouma bicolor,Urticaceae,Jenaro_Herrera,S_Amer,36,337,84,73.6,130.8,0.68,24,Low P,med1
+Pouteria guianensis,Sapotaceae,Jenaro_Herrera,S_Amer,36,345,77,21.2,67.5,0.31,35.3,Low P,low
+Pouteria platyphylla,Sapotaceae,Jenaro_Herrera,S_Amer,36,346,77,34.7,48.6,0.37,35.9,Low P,low
+Protium polybotryum,Burseraceae,Jenaro_Herrera,S_Amer,36,358,15,43.2,126,0.52,24.8,Low P,low
+Qualea paraensis,Vochysiaceae,Jenaro_Herrera,S_Amer,36,372,86,39,62.7,1.26,9.2,Mod. P,med2
+Sloanea brevipes,Elaeocarpaceae,Jenaro_Herrera,S_Amer,36,400,33,30.5,66.6,0.81,14.5,Low P,med1
+Acacia cyclops,Fabaceae,Jurien_Quindalup,Australia,37,2,36,82,175.7,0.48,37,Low P,low
+Acacia rostellifera,Fabaceae,Jurien_Quindalup,Australia,37,5,36,90,238.2,0.98,21.1,Mod. P,med2
+Banksia attenuata,Proteaceae,Jurien_Quindalup,Australia,37,44,70,50.9,77.9,0.31,36,Low P,low
+Banksia prionotes,Proteaceae,Jurien_Quindalup,Australia,37,45,70,109.8,235.8,0.43,30.8,Low P,low
+Eucalyptus todtiana,Myrtaceae,Jurien_Quindalup,Australia,37,173,59,85.5,156.1,0.38,31.4,Low P,low
+Calophyllum thorelii,Clusiaceae,Kampong_Thom,Asia,38,69,25,31.7,61.4,0.64,23.2,Low P,med1
+Macaranga griffithiana,Euphorbiaceae,Kampong_Thom,Asia,38,263,35,44.5,99.1,0.94,21.7,Mod. P,med1
+Myristica iners ,Myristicaceae,Kampong_Thom,Asia,38,292,58,38.2,78.6,0.64,21.4,Low P,med1
+Neonauclea purpurea ,Rubiaceae,Kampong_Thom,Asia,38,300,73,43.6,104.7,1.1,18.8,Mod. P,med2
+Tristaniopsis burmanica 26mmp,Myrtaceae,Kampong_Thom,Asia,38,451,59,39.2,88.2,0.42,22.6,Low P,low
+Tristaniopsis burmanica 27mmp,Myrtaceae,Kampong_Thom,Asia,38,452,59,40.8,90.1,0.43,21.9,Low P,low
+Alphitonia whitei,Rhamnaceae,Kairi Creek Road,Australia,39,21,71,62.5,120.1,0.61,26,Low P,med1
+Cardwellia sublimis,Proteaceae,Kairi Creek Road,Australia,39,74,70,41.4,80.4,0.45,27.7,Low P,low
+Cryptocarya onoprienkoana,Lauraceae,Kairi Creek Road,Australia,39,130,44,39.3,80.8,0.73,24,Low P,med1
+Darlingia darlingiana,Proteaceae,Kairi Creek Road,Australia,39,133,70,41,83.6,0.84,14.2,Low P,med1
+Geissois biagiana,Cunoniaceae,Kairi Creek Road,Australia,39,195,28,55,98.9,0.54,23.1,Low P,low
+Glochidion sessiliflorum subsp. pedicellatum,Euphorbiaceae,Kairi Creek Road,Australia,39,197,35,38.7,74.7,0.48,29.1,Low P,low
+Litsea bindoniana,Lauraceae,Kairi Creek Road,Australia,39,254,44,74.6,101.2,0.5,35.1,Low P,low
+Litsea leefeana,Lauraceae,Kairi Creek Road,Australia,39,255,44,36.3,80.7,0.61,27.1,Low P,med1
+Anogeissus leiocarpa,Combretaceae,Kogyae,Africa,40,34,26,46.2,121.7,3.11,5.2,Mod. P,high
+Daniellia oliveri,Fabaceae,Kogyae,Africa,40,132,36,24.5,75.4,1.11,16.4,Mod. P,med2
+Khaya anthotheca,Meliaceae,Kogyae,Africa,40,233,53,24.2,64.1,0.71,18.3,Low P,med1
+Lannea barteri,Anacardiaceae,Kogyae,Africa,40,239,2,33.4,99.8,1.85,7.6,Mod. P,high
+Maranthes polyandra,Chrysobalanaceae,Kogyae,Africa,40,270,23,62.8,140.1,1.25,16.3,Mod. P,med2
+Pterocarpus erinaceus,Fabaceae,Kogyae,Africa,40,368,36,38.1,84.3,1.87,13,Mod. P,high
+Terminalia schimperiana,Combretaceae,Kogyae,Africa,40,440,26,56.4,144.3,1.5,12.1,Mod. P,high
+Vitellaria paradoxa,Sapotaceae,Kogyae,Africa,40,464,77,42.8,92,1.66,8.7,Mod. P,high
+Aleurites rockinghamensis,Euphorbiaceae,Koombooloomba,Australia,41,18,35,71.1,98.4,1.87,14.4,Mod. P,high
+Allocasuarina torulosa,Casuarinaceae,Koombooloomba,Australia,41,19,20,46.4,88.8,0.38,30.1,Low P,low
+Alphitonia petriei,Rhamnaceae,Koombooloomba,Australia,41,20,71,72,138.8,0.87,23.5,Low P,med1
+Beilschmiedia bancroftii,Lauraceae,Koombooloomba,Australia,41,49,44,43.3,123.3,1.12,23.6,Mod. P,med2
+Beilschmiedia collina,Lauraceae,Koombooloomba,Australia,41,50,44,62,166.5,1.34,18.9,Mod. P,high
+Beilschmiedia recurva,Lauraceae,Koombooloomba,Australia,41,51,44,42.6,55.8,0.97,20.9,Mod. P,med2
+Castanospora alphandi,Sapindaceae,Koombooloomba,Australia,41,82,76,39.2,104,1.3,14.7,Mod. P,high
+Corymbia intermedia,Myrtaceae,Koombooloomba,Australia,41,121,59,112.3,153.2,0.56,31,Low P,low
+Cryptocarya oblata,Lauraceae,Koombooloomba,Australia,41,129,44,43.8,116.7,0.7,28.6,Low P,med1
+Elaeocarpus largiflorens,Elaeocarpaceae,Koombooloomba,Australia,41,147,33,47.8,101.7,0.49,27.2,Low P,low
+Endiandra sankeyana,Lauraceae,Koombooloomba,Australia,41,150,44,43.9,103.2,1.01,17.4,Mod. P,med2
+Eucalyptus intermedia,Myrtaceae,Koombooloomba,Australia,41,165,59,70.8,141.8,0.59,22.6,Low P,low
+Eucalyptus tereticornis,Myrtaceae,Koombooloomba,Australia,41,171,59,84.1,131.7,0.81,19.4,Low P,med1
+Euroschinus falcata,Anacardiaceae,Koombooloomba,Australia,41,175,2,51.3,96.4,1.02,20.7,Mod. P,med2
+Flindersia bourjotiana,Rutaceae,Koombooloomba,Australia,41,188,74,48.7,81.2,0.64,20.1,Low P,med1
+Glochidion hylandii,Euphorbiaceae,Koombooloomba,Australia,41,196,35,45.5,89.3,0.9,21.1,Low P,med1
+Litsea leefeana,Lauraceae,Koombooloomba,Australia,41,255,44,48.7,111.8,0.94,19.1,Mod. P,med2
+Lophostemon suaveolens,Myrtaceae,Koombooloomba,Australia,41,256,59,61.5,135.9,0.64,23,Low P,med1
+Polyscias elegans,Araliaceae,Koombooloomba,Australia,41,331,7,46.7,103.4,0.88,22.9,Low P,med1
+Siphonodon membranaceus,Celastraceae,Koombooloomba,Australia,41,398,21,37.5,99.9,1.47,18.4,Mod. P,high
+Sloanea australis,Elaeocarpaceae,Koombooloomba,Australia,41,399,33,30.2,72.6,0.45,31.9,Low P,low
+Synima macrophylla,Sapindaceae,Koombooloomba,Australia,41,420,76,23.7,59,1.04,20.3,Mod. P,med2
+Clethra cuneata,Clethraceae,Kosnipata,S_Amer,42,102,24,67.7,169,1.08,12.2,Mod. P,med2
+Clusia cretosa,Clusiaceae,Kosnipata,S_Amer,42,106,25,89.8,182.8,1.78,11.1,Mod. P,high
+Schefflera allocotantha,Araliaceae,Kosnipata,S_Amer,42,387,7,64.2,148.9,0.83,12.3,Low P,med1
+Weinmannia bangii,Cunoniaceae,Kosnipata,S_Amer,42,469,28,74.1,243.4,1.35,10.8,Mod. P,high
+Dipterocarpus tuberculatus,Dipterocarpaceae,Kratie,Asia,43,139,31,48.5,95.9,1.23,14.4,Mod. P,med2
+Shorea obtusa,Dipterocarpaceae,Kratie,Asia,43,395,31,44.7,79.2,1.07,16,Mod. P,med2
+Terminalia alata,Combretaceae,Kratie,Asia,43,434,26,50.3,99.1,1.04,14.6,Mod. P,med2
+"Terminalia tomentosa """"grande""""",Combretaceae,Kratie,Asia,43,441,26,48.2,95.2,0.84,15.8,Low P,med1
+Xylia xylocarpa,Leguminosae,Kratie,Asia,43,472,46,40.6,88.1,0.89,25,Low P,med1
+Banksia_mariana,Proteaceae,Kuringgai-Chase_NP,Australia,44,47,70,98.9,189.2,0.36,33.1,Low P,low
+Hakea_dactyloides,Proteaceae,Kuringgai-Chase_NP,Australia,44,208,70,62.4,105.4,0.16,43.7,Low P,low
+Shorea acuta,Dipterocarpaceae,Lambir_HillsNP,Asia,45,393,31,46.4,83.9,0.41,32.2,Low P,low
+Shorea beccariana,Dipterocarpaceae,Lambir_HillsNP,Asia,45,394,31,53.5,94.4,0.44,35.4,Low P,low
+Duguetia stelechantha,Annonaceae,Manaus,S_Amer,46,143,3,33.1,51,0.5,47.1,Low P,low
+Mabea speciosa,Euphorbiaceae,Manaus,S_Amer,46,262,35,36,66.5,1.12,20.4,Mod. P,med2
+Micropholis cylindrocarpa,Sapotaceae,Manaus,S_Amer,46,278,77,38.8,66,0.37,71.4,Low P,low
+Pourouma villosa,Urticaceae,Manaus,S_Amer,46,341,84,43,63.8,0.47,42.8,Low P,low
+Pouteria caimito,Sapotaceae,Manaus,S_Amer,46,344,77,30.2,56.2,0.44,45,Low P,low
+Pterandra arborea,Malpighiaceae,Manaus,S_Amer,46,367,50,62.8,95.6,0.4,42.8,Low P,low
+Amphimas pterocarpoides,Fabaceae,Mban-Djeren_CAM,Africa,47,28,36,41.4,94.9,1.2,30.9,Mod. P,med2
+ANI2 2,NA,Mban-Djeren_CAM,Africa,47,29,NA,23.7,48.3,0.94,31.4,Mod. P,med1
+Annona senegalensis,Annonaceae,Mban-Djeren_CAM,Africa,47,32,3,67.5,114.7,0.92,17.2,Mod. P,med1
+Antidesma laciniatum,Phyllanthaceae,Mban-Djeren_CAM,Africa,47,36,67,53.1,93.6,0.97,24.3,Mod. P,med2
+Berlinia grandiflora,Fabaceae,Mban-Djeren_CAM,Africa,47,52,36,53.8,99.8,1.58,15.2,Mod. P,high
+Celtis adolfi-friderici,Cannabaceae,Mban-Djeren_CAM,Africa,47,88,17,41.4,92.4,1.14,15.1,Mod. P,med2
+Cola lateritia,Malvaceae,Mban-Djeren_CAM,Africa,47,110,51,16.1,33.7,1.12,14.6,Mod. P,med2
+Combretum sp.,Combretaceae,Mban-Djeren_CAM,Africa,47,116,26,38.3,75.4,1,16.1,Mod. P,med2
+Crossopteryx febrifuga,Rubiaceae,Mban-Djeren_CAM,Africa,47,128,73,30.6,66.8,1.34,7.9,Mod. P,high
+Daniellia oliveri,Fabaceae,Mban-Djeren_CAM,Africa,47,132,36,13.7,47.3,0.58,16,Low P,low
+Ficus exasperata,Moraceae,Mban-Djeren_CAM,Africa,47,179,56,57,105.5,1.22,18.3,Mod. P,med2
+Ficus variifolia,Moraceae,Mban-Djeren_CAM,Africa,47,185,56,28.9,63.8,1.51,16.5,Mod. P,high
+Funtumia elastica,Apocynaceae,Mban-Djeren_CAM,Africa,47,190,5,44.1,95.5,1.12,22.6,Mod. P,med2
+Gymnosporia senegalensis,Celastraceae,Mban-Djeren_CAM,Africa,47,206,21,22.9,75.1,2.09,2.6,Mod. P,high
+Homalium sp.,Salicaceae,Mban-Djeren_CAM,Africa,47,217,75,49.7,83.5,0.51,34.2,Low P,low
+Hymenocardia acida,Phyllanthaceae,Mban-Djeren_CAM,Africa,47,220,67,54.1,110.4,1.41,10.3,Mod. P,high
+Ind.plot7,NA,Mban-Djeren_CAM,Africa,47,225,NA,50.7,113.6,1.11,28.2,Mod. P,med2
+Irvingia gabonensis,Irvingiaceae,Mban-Djeren_CAM,Africa,47,230,41,25.5,66.7,0.69,28.5,Low P,med1
+Leg2,Fabaceae,Mban-Djeren_CAM,Africa,47,244,36,51.7,110.1,1.67,19.4,Mod. P,high
+Maprounea membranacea,Euphorbiaceae,Mban-Djeren_CAM,Africa,47,268,35,31,76.6,0.77,20.9,Low P,med1
+Maranthes chrysophylla,Chrysobalanaceae,Mban-Djeren_CAM,Africa,47,269,23,37.4,99.2,0.68,24,Low P,med1
+Markhamia lutea,Bignoniaceae,Mban-Djeren_CAM,Africa,47,271,10,56.4,115,2.4,14.3,Mod. P,high
+Milicia excelsa,Moraceae,Mban-Djeren_CAM,Africa,47,285,56,63,105,1.12,19.4,Mod. P,med2
+Ochna 1,Ochnaceae,Mban-Djeren_CAM,Africa,47,303,61,48.6,95.2,0.8,28.3,Low P,med1
+Oncoba glauca,Salicaceae,Mban-Djeren_CAM,Africa,47,309,75,41.9,81.7,0.9,21.2,Low P,med1
+Oncoba sp.,Salicaceae,Mban-Djeren_CAM,Africa,47,310,75,34.4,85.8,0.88,18.2,Low P,med1
+Parkia biglobosa,Fabaceae,Mban-Djeren_CAM,Africa,47,318,36,52.4,107.9,1.39,20.7,Mod. P,high
+Piliostigma thonningii,Fabaceae,Mban-Djeren_CAM,Africa,47,324,36,50.8,85.6,1.98,5.7,Mod. P,high
+Pouteria alnifolia,Sapotaceae,Mban-Djeren_CAM,Africa,47,342,77,43.5,95.2,1.38,21.3,Mod. P,high
+Quassia sp.,Simaroubaceae,Mban-Djeren_CAM,Africa,47,373,78,52.1,112.4,1.28,22,Mod. P,high
+Sapium sp.,Euphorbiaceae,Mban-Djeren_CAM,Africa,47,385,35,43.4,98.8,1.15,18.7,Mod. P,med2
+Spondias mombin,Anacardiaceae,Mban-Djeren_CAM,Africa,47,407,2,30.9,63.2,1.06,17.3,Mod. P,med2
+Spondias sp.,Anacardiaceae,Mban-Djeren_CAM,Africa,47,408,2,39.9,93.4,1.44,16.2,Mod. P,high
+Syzygium guineense,Myrtaceae,Mban-Djeren_CAM,Africa,47,422,59,45.4,91.4,0.8,13.6,Low P,med1
+Tabernaemontana crassa,Apocynaceae,Mban-Djeren_CAM,Africa,47,426,5,33.2,79.6,4.4,6.9,Mod. P,high
+Trichilia rubescens,Meliaceae,Mban-Djeren_CAM,Africa,47,447,53,33.9,77.9,1.27,20.6,Mod. P,med2
+Trilepisium madagascariense,Moraceae,Mban-Djeren_CAM,Africa,47,449,56,52,86.5,1.33,17.5,Mod. P,high
+Uapaca guineensis,Phyllanthaceae,Mban-Djeren_CAM,Africa,47,453,67,49.2,111.6,0.76,24.1,Low P,med1
+Vitex doniana,Lamiaceae,Mban-Djeren_CAM,Africa,47,465,42,56.3,116.9,0.88,14.9,Low P,med1
+Ximenia americana,Ximeniaceae,Mban-Djeren_CAM,Africa,47,471,87,55.3,118.5,1.79,16.6,Mod. P,high
+Xylopia aethiopica,Annonaceae,Mban-Djeren_CAM,Africa,47,473,3,56.7,124.2,0.7,30.2,Low P,med1
+Combretum ghasalense,Combretaceae,Mole,Africa,49,112,26,48.3,116.1,0.89,15.8,Low P,med1
+Lannea acida,Anacardiaceae,Mole,Africa,49,238,2,41.9,112.4,1.23,11.2,Mod. P,med2
+Maytenus senegalensis,Celastraceae,Mole,Africa,49,273,21,35.9,103.9,0.98,11.8,Mod. P,med2
+Terminalia avicennioides,Combretaceae,Mole,Africa,49,435,26,67.8,150.5,0.93,16.1,Mod. P,med1
+Vitellaria paradoxa,Sapotaceae,Mole,Africa,49,464,77,42.6,98.2,0.8,16.5,Low P,med1
+Agonandra_silvatica,Opiliaceae,Nouragues,S_Amer,51,12,64,28.9,60.5,0.54,34.8,Low P,low
+Aniba _rosaeodora,Lauraceae,Nouragues,S_Amer,51,30,44,16.2,33.5,0.42,32.5,Low P,low
+Brosimum_guianense,Moraceae,Nouragues,S_Amer,51,62,56,20.5,39,0.83,19.7,Low P,med1
+Capirona_decorticans,Rubiaceae,Nouragues,S_Amer,51,71,73,12.3,31.5,0.59,36.9,Low P,low
+Caryocar_glabrum,Caryocaraceae,Nouragues,S_Amer,51,77,19,20.4,56.6,0.5,26.1,Low P,low
+Chimarrhis_turbinata,Rubiaceae,Nouragues,S_Amer,51,93,73,31.9,74.3,0.56,31.9,Low P,low
+Chrysophyllum_argenteum,Sapotaceae,Nouragues,S_Amer,51,97,77,21.6,51.5,0.35,42,Low P,low
+Couepia_caryophylloides,Chrysobalanaceae,Nouragues,S_Amer,51,126,23,33.8,83.3,0.55,33.5,Low P,low
+Dicorynia_guianensis,Fabaceae,Nouragues,S_Amer,51,136,36,26.7,66.3,0.52,38.3,Low P,low
+Eschweilera_coriacea,Lecythidaceae,Nouragues,S_Amer,51,159,45,23.9,50.5,0.78,26.2,Low P,med1
+Eschweilera_decolorans,Lecythidaceae,Nouragues,S_Amer,51,160,45,19,41.6,0.43,40.1,Low P,low
+Lecythis_idatimon,Lecythidaceae,Nouragues,S_Amer,51,242,45,16.1,29.3,0.44,31,Low P,low
+Lecythis_zabucajo,Lecythidaceae,Nouragues,S_Amer,51,243,45,23.2,75.9,0.7,37,Low P,med1
+Licania_alba,Chrysobalanaceae,Nouragues,S_Amer,51,250,23,27.5,63.3,0.31,41.5,Low P,low
+Micropholis_venulosa,Sapotaceae,Nouragues,S_Amer,51,282,77,28,57.3,0.43,46.7,Low P,low
+Paloue_guianensis,Fabaceae,Nouragues,S_Amer,51,313,36,34.3,66.2,0.64,44.7,Low P,med1
+Pouteria_eugeniifolia,Sapotaceae,Nouragues,S_Amer,51,352,77,27.1,48.8,0.4,30.5,Low P,low
+Pouteria_retinervis,Sapotaceae,Nouragues,S_Amer,51,353,77,42.9,86,0.86,25.4,Low P,med1
+Pradosia_ptychandra,Sapotaceae,Nouragues,S_Amer,51,354,77,23.9,43,0.47,35.6,Low P,low
+Protium_opacum,Burseraceae,Nouragues,S_Amer,51,362,15,10.5,33.9,0.47,27.9,Low P,low
+Sextonia_rubra,Lauraceae,Nouragues,S_Amer,51,392,44,26.7,55.5,0.53,24.8,Low P,low
+Sterculia_speciosa,Malvaceae,Nouragues,S_Amer,51,411,51,25,52.5,0.55,27.6,Low P,low
+Vouacapoua_americana,Fabaceae,Nouragues,S_Amer,51,468,36,23.2,42.6,0.97,22.7,Mod. P,med2
+Carapa grandiflora,Meliaceae,Nyungwe,Africa,52,73,53,50.5,101,1.14,18.2,Mod. P,med2
+Entandrophragma excelsum,Meliaceae,Nyungwe,Africa,52,153,53,43.2,81.8,1.73,13.3,Mod. P,high
+Hagenia abyssinica,Rosaceae,Nyungwe,Africa,52,207,72,74.6,167.4,2.85,12.4,Mod. P,high
+Macaranga kilimandscharica,Euphorbiaceae,Nyungwe,Africa,52,264,35,67.5,146.5,1.23,16.9,Mod. P,med2
+Polyscias fulva,Araliaceae,Nyungwe,Africa,52,332,7,76.9,173.4,1.41,14.5,Mod. P,high
+Syzygium guineense,Myrtaceae,Nyungwe,Africa,52,422,59,40.4,80.4,1.18,21.3,Mod. P,med2
+Amphilophium paniculatum ,Bignoniaceae,Panama_Parque_Metropol,S_Amer,53,27,10,35.9,56.3,1.41,16.3,Mod. P,high
+Annona spraguei,Annonaceae,Panama_Parque_Metropol,S_Amer,53,33,3,44.2,73,1.31,20.1,Mod. P,high
+Bonamia tricantha,Convolvulaceae,Panama_Parque_Metropol,S_Amer,53,56,27,66,143.2,1.45,16.5,Mod. P,high
+Castilla elastica,Moraceae,Panama_Parque_Metropol,S_Amer,53,83,56,58.7,81.1,1.53,17.1,Mod. P,high
+Cecropia obtusifolia,Urticaceae,Panama_Parque_Metropol,S_Amer,53,87,84,72,134.4,1.78,19.9,Mod. P,high
+Chrysophyllum cainito,Sapotaceae,Panama_Parque_Metropol,S_Amer,53,94,77,49.1,84.7,1.02,18.4,Mod. P,med2
+Cinnamomum triplinerve,Lauraceae,Panama_Parque_Metropol,S_Amer,53,99,44,65.6,112.1,1,20.4,Mod. P,med2
+Cordia alliodora,Boraginaceae,Panama_Parque_Metropol,S_Amer,53,118,13,68.4,136.6,1.51,24.3,Mod. P,high
+Ficus insipida,Moraceae,Panama_Parque_Metropol,S_Amer,53,180,56,67.1,119.3,1.68,16.5,Mod. P,high
+Gouania lupuloides,Rhamnaceae,Panama_Parque_Metropol,S_Amer,53,199,71,54.8,96,1.6,17.9,Mod. P,high
+Ipomoea sp.,Convolvulaceae,Panama_Parque_Metropol,S_Amer,53,229,27,45.6,69.7,1.92,20.1,Mod. P,high
+Luehea seemanii,Malvaceae,Panama_Parque_Metropol,S_Amer,53,257,51,48.9,86.6,1.04,18.7,Mod. P,med2
+Luehea seemannii,Malvaceae,Panama_Parque_Metropol,S_Amer,53,258,51,48.6,79.1,1.16,14.5,Mod. P,med2
+Mikania leiostachya,Asteraceae,Panama_Parque_Metropol,S_Amer,53,283,9,83.2,107.1,2.37,13.1,Mod. P,high
+Mikania micrantha,Asteraceae,Panama_Parque_Metropol,S_Amer,53,284,9,43.7,95.7,1.93,14.3,Mod. P,high
+Peritassa pruinosa,Celastraceae,Panama_Parque_Metropol,S_Amer,53,320,21,33.1,65.3,2.4,9.5,Mod. P,high
+Pittoniotis trichantha,Rubiaceae,Panama_Parque_Metropol,S_Amer,53,328,73,56.2,113.2,1.24,19.4,Mod. P,med2
+Schefflera morototoni,Araliaceae,Panama_Parque_Metropol,S_Amer,53,388,7,71.4,152.5,1.15,21.4,Mod. P,med2
+Stigmaphyllon hypargineum,Malpighiaceae,Panama_Parque_Metropol,S_Amer,53,412,50,41.6,68.1,1.54,14.9,Mod. P,high
+unknown,unknown,Panama_Parque_Metropol,S_Amer,53,457,83,42.8,89.6,1.78,16.3,Mod. P,high
+Chaetocarpus schomburgkianus,Euphorbiaceae,Paracou,S_Amer,54,91,35,25,74.1,0.4,21.2,Low P,low
+Licania_alba,Chrysobalanaceae,Paracou,S_Amer,54,250,23,23.2,40.4,0.34,34.2,Low P,low
+Lueheopsis_rugosa,Malvaceae,Paracou,S_Amer,54,260,51,17.1,32.7,0.42,29.3,Low P,low
+Sterculia_NA,Malvaceae,Paracou,S_Amer,54,409,51,24.4,35.6,0.47,32.2,Low P,low
+Sterculia_pruriens,Malvaceae,Paracou,S_Amer,54,410,51,35.6,61.6,0.62,22.6,Low P,med1
+Symphonia_globulifera,Clusiaceae,Paracou,S_Amer,54,418,25,20.3,50.9,0.49,28.3,Low P,low
+Tovomita_NA,Clusiaceae,Paracou,S_Amer,54,445,25,21.2,43.7,0.5,28.7,Low P,low
+Vouacapoua_americana,Fabaceae,Paracou,S_Amer,54,468,36,21.7,44.3,0.76,29.8,Low P,med1
+Geijera salicifolia,Rutaceae,Rishton Scrub,Australia,55,194,74,52,127.4,1.61,15.8,Mod. P,high
+Lysiphyllum hookeri,Fabaceae,Rishton Scrub,Australia,55,261,36,30.3,68.5,1.4,15.2,Mod. P,high
+Planchonella cotinifolia,Sapotaceae,Rishton Scrub,Australia,55,329,77,30.9,72.9,1.34,17.5,Mod. P,high
+Terminalia oblongata subsp. oblongata,Combretaceae,Rishton Scrub,Australia,55,439,26,61.2,139.9,2.36,10.6,Mod. P,high
+Wrightia versicolor,Apocynaceae,Rishton Scrub,Australia,55,470,5,43.4,99.3,2.7,12.6,Mod. P,high
+Brunellia stenoptera,Brunelliaceae,SanPedro_01,S_Amer,57,64,14,71.1,125.4,1.38,13.9,Mod. P,high
+Cabralea canjerana,Meliaceae,SanPedro_01,S_Amer,57,67,53,43.9,109.5,2.35,9.7,Mod. P,high
+Cecropia angustifolia,Moraceae,SanPedro_01,S_Amer,57,86,56,57,92.4,1.53,15.5,Mod. P,high
+Chrysophyllum sp.,Sapotaceae,SanPedro_01,S_Amer,57,96,77,49.3,122.5,1.34,11.9,Mod. P,high
+Dendropanax cuneatus,Araliaceae,SanPedro_01,S_Amer,57,134,7,31,56.9,1.38,14.6,Mod. P,high
+Endlicheria chalisea,Lauraceae,SanPedro_01,S_Amer,57,151,44,63,96.6,0.97,19.2,Mod. P,med2
+Ficus americana subsp. guianensis,Moraceae,SanPedro_01,S_Amer,57,177,56,88,98.5,1.27,11.9,Mod. P,med2
+Hieronyma macrocarpa,Phyllanthaceae,SanPedro_01,S_Amer,57,214,67,41.7,90.8,1.43,13.5,Mod. P,high
+Ilex sp.,Aquifoliaceae,SanPedro_01,S_Amer,57,223,6,47.9,98,0.48,24.4,Low P,low
+Licania sp.,Chrysobalanaceae,SanPedro_01,S_Amer,57,248,23,58.1,130.5,1.08,16.1,Mod. P,med2
+Miconia coelestis,Melastomataceae,SanPedro_01,S_Amer,57,275,52,81.9,175.5,1.2,18.8,Mod. P,med2
+Pourouma bicolor subsp. scobina,Urticaceae,SanPedro_01,S_Amer,57,338,84,59.2,107.6,2.25,9.4,Mod. P,high
+Pouteria sagotiana,Sapotaceae,SanPedro_01,S_Amer,57,347,77,35.5,69.7,1.28,13.6,Mod. P,high
+Pouteria torta,Sapotaceae,SanPedro_01,S_Amer,57,349,77,34.8,71.1,0.9,21.9,Low P,med1
+Protium sagotianum,Burseraceae,SanPedro_01,S_Amer,57,359,15,44.5,109.7,1.11,14.4,Mod. P,med2
+Protium spruceanum cf,Burseraceae,SanPedro_01,S_Amer,57,360,15,48.8,99.3,1.1,15.8,Mod. P,med2
+sp1(1046WFR) sp.,NA,SanPedro_01,S_Amer,57,405,NA,39.7,91.2,1.17,13.4,Mod. P,med2
+sp5(1101KGC) sp.,NA,SanPedro_01,S_Amer,57,406,NA,18.3,47.6,1.03,18.9,Mod. P,med2
+Tapirira obtusa,Anacardiaceae,SanPedro_01,S_Amer,57,431,2,35.4,80.5,1.11,12.4,Mod. P,med2
+Eucalyptus coolibah,Myrtaceae,Sturt Plains,Australia,58,162,59,28.7,71.1,0.58,18.3,Low P,low
+Eucalyptus pruinosa,Myrtaceae,Sturt Plains,Australia,58,168,59,62.7,109.4,0.51,20.1,Low P,low
+Buchenavia tomentosa,Combretaceae,Sucusari_01,S_Amer,59,65,26,24.9,67.7,0.87,19.6,Low P,med1
+Couepia bracteosa,Chrysobalanaceae,Sucusari_01,S_Amer,59,125,23,47.4,110.1,0.34,32.1,Low P,low
+Eschweilera itayensis,Lecythidaceae,Sucusari_01,S_Amer,59,156,45,34.5,59.5,0.58,17.9,Low P,low
+Gustavia hexapetala,Lecythidaceae,Sucusari_01,S_Amer,59,205,45,43.7,72.8,1.38,21.7,Mod. P,high
+Helicostylis scabra,Moraceae,Sucusari_01,S_Amer,59,212,56,31.9,68.1,1,17.5,Mod. P,med2
+Inga capitata,Fabaceae,Sucusari_01,S_Amer,59,227,36,39.1,89.5,0.91,33.9,Low P,med1
+Minquartia guianensis,Olacaceae,Sucusari_01,S_Amer,59,286,62,25.3,72,0.85,18.3,Low P,med1
+Nealchornea yapurensis,Euphorbiaceae,Sucusari_01,S_Amer,59,295,35,40.4,104.9,0.78,17.9,Low P,med1
+Ruptiliocarpon caracolito,Lepidobotryaceae,Sucusari_01,S_Amer,59,382,47,21.4,57.9,0.56,21,Low P,low
+Talisia sylvatica,Sapindaceae,Sucusari_01,S_Amer,59,429,76,28.6,75.5,0.71,17.8,Low P,med1
+Vismia amazonica,Clusiaceae,Sucusari_01,S_Amer,59,461,25,68.7,156.2,0.61,19.9,Low P,med1
+Bixa arborea,Bixaceae,Tambopata_06,S_Amer,60,53,11,53,90.6,0.93,23.8,Mod. P,med1
+Cabralea canjerana,Meliaceae,Tambopata_06,S_Amer,60,67,53,45.3,98.2,3.05,12.9,Mod. P,high
+Clarisia racemosa,Fabaceae,Tambopata_06,S_Amer,60,101,36,35.6,76.2,1.86,13.1,Mod. P,high
+Cordia sp.,Boraginaceae,Tambopata_06,S_Amer,60,119,13,66.2,103.7,1.08,23.2,Mod. P,med2
+Dipteryx alata,Fabaceae,Tambopata_06,S_Amer,60,140,36,57.2,80.2,1.27,16.5,Mod. P,med2
+Ficus schultesii,NA,Tambopata_06,S_Amer,60,183,NA,45.6,83.3,1.01,15.1,Mod. P,med2
+Hymenaea courbaril var. longifolia,Fabaceae,Tambopata_06,S_Amer,60,219,36,61.6,107.8,0.99,17.6,Mod. P,med2
+Ocotea bofo,Lauraceae,Tambopata_06,S_Amer,60,305,44,41,78.9,0.51,35.1,Low P,low
+Ocotea sp.,Lauraceae,Tambopata_06,S_Amer,60,307,44,47.6,91.4,0.99,18.9,Mod. P,med2
+Pourouma minor,Urticaceae,Tambopata_06,S_Amer,60,340,84,48.8,78.4,1.31,16.1,Mod. P,high
+Pouteria torta subsp. tuberculata,Sapotaceae,Tambopata_06,S_Amer,60,351,77,47.7,108.8,0.89,19.7,Low P,med1
+Sloanea brevipes,Elaeocarpaceae,Tambopata_06,S_Amer,60,400,33,70.7,87.1,0.64,25.7,Low P,med1
+Sorocea trophoides,Moraceae,Tambopata_06,S_Amer,60,404,56,36.5,75.1,1.58,16.7,Mod. P,high
+Thyrsodium sp.,Anacardiaceae,Tambopata_06,S_Amer,60,443,2,66.5,109.2,1.03,13.6,Mod. P,med2
+Trattinnickia glaziovii,Burseraceae,Tambopata_06,S_Amer,60,446,15,48.8,90.9,1.8,9.2,Mod. P,high
+unidentified,NA,Tambopata_06,S_Amer,60,456,NA,39.5,72.1,0.27,67.4,Low P,low
+Eucalyptus delegatensis,Myrtaceae,Tumbarumba,Australia,61,163,59,94.7,184.3,1.45,9.3,Mod. P,high
+Clethra fagifolia,Clethraceae,Tupiro_08,S_Amer,62,103,24,50.6,107,0.52,22,Low P,low
+Clethra sp.,Clethraceae,Tupiro_08,S_Amer,62,105,24,89.8,188.6,1.21,9.3,Mod. P,med2
+Freziera karsteniana,Pentaphylacaceae,Tupiro_08,S_Amer,62,189,66,73.1,180.3,2.7,5.6,Mod. P,high
+Hieronyma sp2(1124WFR),Phyllanthaceae,Tupiro_08,S_Amer,62,215,67,78.8,204.8,1.61,13.4,Mod. P,high
+Myrsine coriacea,Primulaceae,Tupiro_08,S_Amer,62,293,69,75.9,173.5,1.37,11.6,Mod. P,high
+Nectandra cuspidata,Lauraceae,Tupiro_08,S_Amer,62,296,44,51,103.6,0.34,31.5,Low P,low
+Prunus pleiantha,Rosaceae,Tupiro_08,S_Amer,62,363,72,55.5,96.9,0.57,17.2,Low P,low
+Axinaea sp.,Melastomataceae,Wayquecha_01,S_Amer,64,43,52,71.1,133.2,3.96,9.8,Mod. P,high
+Cinnamomum floccosum,Lauraceae,Wayquecha_01,S_Amer,64,98,44,59.4,97.1,2.09,9.7,Mod. P,high
+Clethra cuneata,Clethraceae,Wayquecha_01,S_Amer,64,102,24,98.3,204.5,1.69,8.6,Mod. P,high
+Hedyosmum maximum,Chloranthaceae,Wayquecha_01,S_Amer,64,211,22,36.3,63.7,1.54,11.8,Mod. P,high
